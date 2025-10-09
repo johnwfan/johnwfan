@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+John+Fan" alt="Typing SVG" />
 </h1>
 
-### 🕹️ Player 1: John Fan  
 Hey, I’m **John Fan** — a software developer
 
 ---
