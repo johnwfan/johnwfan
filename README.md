@@ -1,11 +1,7 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there!+👾+I'm+John+Fan;Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+John+Fan" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="700" alt="retro divider"/>
-</p>
 
 ### 🕹️ Player 1: John Fan  
 Hey, I’m **John Fan** — a software developer
@@ -43,12 +39,9 @@ Hey, I’m **John Fan** — a software developer
 </p>
 
 ---
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="700" alt="retro divider"/>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=johnwfan&style=for-the-badge&color=ff69b4" alt="Profile Views" />
 </p>
 
-<p align="center">👾 Thanks for visiting! 👾</p>
+<p align="center">Thanks for visiting!</p>
