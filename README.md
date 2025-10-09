@@ -43,16 +43,6 @@ Hey, I’m **John Fan** — a software developer
 </p>
 
 ---
-
-### 🌀 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/johnwfan/johnwfan/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-### 💬 Terminal Log
-
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="700" alt="retro divider"/>
 </p>
