@@ -1,15 +1,6 @@
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+John+Fan" alt="Typing SVG" />
-</h1>
+Hi! I'm John Fan - a computer science student with a passion for building thoughtful, user-focused software. I enjoy turning abstract ideas into tangible projects, whether that’s through systems programming, game development, or tools that make everyday tasks easier. I’m always exploring new technologies and learning by building.
 
-Hey, I’m **John Fan** — a software developer
-
----
-
-### ⚙️ Skill Tree
-
-#### 🧩 Languages
+#### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,7 +10,7 @@ Hey, I’m **John Fan** — a software developer
 ![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
 
-#### ⚡ Frameworks & Tools
+#### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -31,7 +22,7 @@ Hey, I’m **John Fan** — a software developer
 
 ---
 
-### 💡 Stats
+### Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=johnwfan&show_icons=true&theme=radical&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwfan&layout=compact&theme=radical&hide_border=true" height="165" />
