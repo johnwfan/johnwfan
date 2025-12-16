@@ -19,19 +19,3 @@ Hi! I'm John Fan - a computer science student with a passion for building though
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnwfan&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwfan&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=johnwfan&style=for-the-badge&color=ff69b4" alt="Profile Views" />
-</p>
-
-<p align="center">Thanks for visiting!</p>
