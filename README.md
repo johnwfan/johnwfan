@@ -1,4 +1,4 @@
-hi i'm john! - a computer science student with a passion for building thoughtful, user-focused software. i enjoy turning abstract ideas into tangible projects, whether that’s through systems programming, game development, or tools that make everyday tasks easier. i’m always exploring new technologies and learning by building.
+hi i'm john! - a computer science student based in Houston, TX with a passion for building thoughtful, user-focused software. i enjoy turning abstract ideas into tangible projects, whether that’s through systems programming, game development, or tools that make everyday tasks easier. i’m always exploring new technologies and learning by building.
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
